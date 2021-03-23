@@ -26,10 +26,10 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/root/files"
   },
   "backend": {
     "imageid": "python:3.8"
-  },
-  "uieditorpath": "/root/files"
+  }
 }
