@@ -3,8 +3,7 @@ First start the python interpreter with `ipython`{{copy}}.
 In the shell:
 ```shell
 ipython
-```
-{{execute}}
+``` {{execute}}
 
 and this
 ```shell
