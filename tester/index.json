@@ -31,5 +31,5 @@
   "backend": {
     "imageid": "python:3.8"
   },
-  "uieditorpath": "files"
+  "uieditorpath": "/root/files"
 }
