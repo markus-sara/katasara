@@ -1,5 +1,12 @@
-First start the python interpreter with `python`{{copy}}.
+First start the python interpreter with `ipython`{{copy}}.
 
+In the shell:
 ```shell
-python
+ipython
+```
+{{execute}}
+
+and this
+```shell
+ls
 ```{{execute}}
